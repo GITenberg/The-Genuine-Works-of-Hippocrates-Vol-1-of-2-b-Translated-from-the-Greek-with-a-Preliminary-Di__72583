@@ -1,0 +1,36 @@
+_repo: The-Genuine-Works-of-Hippocrates-Vol-1-of-2-b-Translated-from-the-Greek-with-a-Preliminary-Di__72583
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Adams, Francis A. (Francis Alexandre)
+    alias: Adams, Francis Alexandre
+    birthdate: 1874
+    deathdate: 1975
+    gutenberg_agent_id: '5604'
+    url: http://www.gutenberg.org/2009/agents/5604
+creator:
+  author:
+    agent_name: Hippocrates
+    gutenberg_agent_id: '56736'
+    url: http://www.gutenberg.org/2009/agents/56736
+description: ''
+gutenberg_issued: '2024-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72583'
+language: en
+pgterms:marc905: 20210411075931hippocrate
+pgterms:marc906: '1886'
+pgterms:marc907: US
+production_note: Rachael Schultz, Bryan Ness, Tim Lindell, Karin Spence and the Online
+  Distributed Proofreading Team at https://www.pgdp.net (This file was produced from
+  images generously made available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bWilliam Wood, $c1886.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Genuine Works of Hippocrates, Vol. 1 (of 2) : $b Translated from the Greek
+  with a Preliminary Discourse and Annotations'
+url: http://www.gutenberg.org/ebooks/72583
